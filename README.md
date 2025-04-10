@@ -1,4 +1,4 @@
-<h1 align="left">Hello 🌍 <img src="https://pixabay.com/gifs/earth-rotating-earth-spinning-earth-2768/" width="29px" />, I'm Adil</h1>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/Adil-Shahzad17/Adil-Shahzad17/main/earth.gif" alt="World" width="29px" /> , I'm Adil</h1>
 <h3 align="left">A Self-taught Frontend Web Developer 🤖. (In progress)
 </h3>
 
@@ -45,24 +45,40 @@
 🎨 
  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
----
+ ---
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+ </br>
+
+<img align="right" src="https://raw.githubusercontent.com/Adil-Shahzad17/Adil-Shahzad17/main/handShake.gif" alt="🤝🏻" width="300px" />
+<h3> Connect with Me </h3> 
 <a href="https://www.linkedin.com/in/adil-shahzad17">
    <img align="left" alt="Adil Shahzad | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
-  <a href="mailto:https://github.com/Adil-Shahzad17">
+  <a href="mailto:adil1712shahzad@gmail.com">
     <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
-  <a href="adil1712shahzad@gmail.com">
+  <a href="https://github.com/Adil-Shahzad17">
     <img align="left" alt="Piyush Pravin | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Github_logo_svg.svg" />
-  </a>
+  </a> 
+
+</br>
+</br>
+</br>
+</br>
 </br>
 
 ---
-Let's connect 🌐 and forge the future together. 🦾
+
+**Let's connect & forge the future together.** 🦾
 </br>
 </br>
+<img align="left" src="https://raw.githubusercontent.com/Adil-Shahzad17/Adil-Shahzad17/main/connect.gif" alt="🌐" width="100px" /> 
+
+</br>
+</br>
+
+---
+
 **Check the Repositories and don't forget to give a star.** 👇
 </br>
 </br>
