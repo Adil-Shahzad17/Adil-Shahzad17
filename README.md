@@ -1,4 +1,4 @@
-<h1 align="left">Hello 🌍, I'm Adil</h1>
+<h1 align="left">Hello 🌍 <img src="https://pixabay.com/gifs/earth-rotating-earth-spinning-earth-2768/" width="29px" />, I'm Adil</h1>
 <h3 align="left">A Self-taught Frontend Web Developer 🤖. (In progress)
 </h3>
 
@@ -8,7 +8,7 @@
 
 ❤  I'm passionate about the field of computer science.
 
-📚  I'm working on advanced ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) concepts and how to optimize apps.
+📚  I'm working on advanced ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) concepts and optimization.
 
 🤝  Curious to learn how things work in real-world tech settings.
 
@@ -48,26 +48,24 @@
 ---
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
-[<img align="left" alt="Adil Shahzad | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-<img align="left" alt="Adil Shahzad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
-[<img align="left" alt="Adil Shahzad | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
+<a href="https://www.linkedin.com/in/adil-shahzad17">
+   <img align="left" alt="Adil Shahzad | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  </a>
+  <a href="mailto:https://github.com/Adil-Shahzad17">
+    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+  </a>
+  <a href="adil1712shahzad@gmail.com">
+    <img align="left" alt="Piyush Pravin | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Github_logo_svg.svg" />
+  </a>
+</br>
 
 ---
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adil-shahzad17&show_icons=true&locale=en" alt="adil-shahzad17" /></p>
-<br/>
-
----
-
-Let's connect 🤝 and forge the future together. 📈📈
+Let's connect 🌐 and forge the future together. 🦾
+</br>
 </br>
 **Check the Repositories and don't forget to give a star.** 👇
-
----
+</br>
+</br>
 ⭐️ From [AdilShahzad-17](https://github.com/adil-shahzad17)
 
 
-[linkedin]: https://www.linkedin.com/in/adil-shahzad17
-[github]: https://github.com/Adil-Shahzad17
-[email]: adil1712shahzad@gmail.com
