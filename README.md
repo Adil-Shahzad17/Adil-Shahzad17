@@ -1,5 +1,8 @@
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/Adil-Shahzad17/Adil-Shahzad17/main/earth.gif" alt="World" width="29px" /> , I'm Adil</h1>
 <h3 align="left">A Self-taught Frontend Web Developer 🤖. (In progress)
+  
+ <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=adil-shahzad17&label=Profile%20views&color=0e75b6&style=flat" alt="adil-shahzad17" /> </p> -->
+
 </h3>
 
 ---
